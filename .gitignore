@@ -1,0 +1,8 @@
+venv/
+.env
+__pycache__/
+*.pyc
+instance/
+notas_local.db
+documento_tecnico.docx
+guion_video.md
